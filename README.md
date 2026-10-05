@@ -25,12 +25,12 @@ Dialogsyntes är en lättviktig modell för att bevara viktiga beslut, motiverin
 /
 ├── README.md                    ← you are here / du är här
 ├── sv/                          ← auktoritativ version / authoritative version
-│   ├── Readme.md
+│   ├── README.md
 │   ├── dialogsyntes-mall-v1-0.md
 │   ├── dialogsyntes_anvandarguide_v1_0.md
 │   └── dialogsyntes-prompt-svenska-v1-0.md
 └── en/                          ← maintained translation / underhållen översättning
-    ├── Readme.md
+    ├── README.md
     ├── dialogue-synthesis-template-v1-0.md
     ├── dialogue-synthesis-user-guide-v1-0.md
     └── dialogue-synthesis-ingestion-prompt-v1-0.md
