@@ -2,8 +2,8 @@
 
 **Language / Språk**
 
-- 🇬🇧 **English:** see [`en/Readme.md`](en/Readme.md)
-- 🇸🇪 **Svenska:** se [`sv/Readme.md`](sv/Readme.md)
+- 🇬🇧 **English:** see [`en/README.md`](en/README.md)
+- 🇸🇪 **Svenska:** se [`sv/README.md`](sv/README.md)
 
 ---
 
